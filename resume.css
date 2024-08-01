@@ -1,0 +1,42 @@
+body{
+    background-color: gray;
+}
+
+
+h2{
+    color: #007bff;
+    font-size: 45px;
+    text-decoration:underline;
+    position: absolute;
+    margin-left: 10px;
+}
+
+img{
+    position: absolute;
+    margin-left: 500px;
+    margin-top: 50px;
+    height: 700px;
+    width: 500px;
+}
+
+.btn{
+    position: absolute;
+    margin-top: 770px;
+    margin-left: 900px;
+    background-color: rgb(5, 98, 247);
+    height: 30px;
+    width: 90px;
+    border-radius: 20px;
+    box-shadow:3000px;
+    cursor: pointer;
+    
+}
+.homebtn{
+    position: absolute;
+    margin-top: 770px;
+    margin-left: 1580px;
+    height: 30px;
+    width: 60px;
+    border-radius: 20px;
+    box-shadow:3000px;
+}
